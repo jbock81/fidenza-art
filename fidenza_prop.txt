@@ -1,0 +1,11 @@
+collison check - No Overlap
+colors - Luxe
+density - High
+have margin - Yes
+outlined - No
+scale - Jumbo
+shape angles - Curved
+soft shapes - No
+spiral - No
+super blocks - No
+turbulence - Med
